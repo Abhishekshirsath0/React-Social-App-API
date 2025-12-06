@@ -1,12 +1,11 @@
-# React + Vite
+📝 Project Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Social Media App built using React that interacts with an API to manage user data and posts. Users can create posts, view the feed, and perform basic actions like liking or deleting posts. The app is designed to practice API integration and improve front-end development skills.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you want, I can also prepare a complete README.md with:
+✔ Installation steps
+✔ Features
+✔ Technologies used
+✔ Screenshots
+✔ API endpoints
+✔ Folder structure
