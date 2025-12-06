@@ -1,11 +1,28 @@
-📝 Project Description
 
-This is a simple Social Media App built using React that interacts with an API to manage user data and posts. Users can create posts, view the feed, and perform basic actions like liking or deleting posts. The app is designed to practice API integration and improve front-end development skills.
+```markdown
+# React Social Media App (API Based)
 
-If you want, I can also prepare a complete README.md with:
-✔ Installation steps
-✔ Features
-✔ Technologies used
-✔ Screenshots
-✔ API endpoints
-✔ Folder structure
+This is a simple Social Media App built using React and API integration.  
+Users can create posts, view feeds, like posts, and interact with content.  
+The goal of this project is to practice API usage, state management, and UI development.
+
+---
+
+## Features
+- Fetch posts from an API  
+- Create new posts  
+- Like or delete posts  
+- Responsive feed layout  
+- Clean and modern UI  
+- Built using React Hooks  
+
+---
+
+## Technologies Used
+- **React JS**
+- **REST API (Custom / JSON Server / Backend API)**
+- **CSS / Tailwind CSS**
+
+
+
+
