@@ -21,7 +21,7 @@ const Forms = () => {
 
     addPost(userId, title, body, tags);
 
-    // Clear inputs
+
     userIdRef.current.value = "";
     titleRef.current.value = "";
     bodyRef.current.value = "";
